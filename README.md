@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Vinayak Palve</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h1 align="left">Hi 👋, I'm Vinayak Palve</h1>
+<h3 align="left">A passionate backend developer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vpalve07&label=Profile%20views&color=0e75b6&style=flat" alt="vpalve07" /> &nbsp;
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vpalve07&label=Profile%20views&color=0e75b6&style=flat" alt="vpalve07" /> &nbsp;
 </a>
     <a href="https://github.com/vpalve07/blogGroup17_Pro1">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/vpalve07/blogGroup17_Pro1" />
     </a>
     </p>
 
-<h2 align="center"> 🏆 GitHub Trophies:</h2>
+<h2 align="left"> 🏆 GitHub Trophies:</h2>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vpalve07&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4" alt="vpalve07" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vpalve07&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4" alt="vpalve07" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 <img align="right" alt="Coding" height="292" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
