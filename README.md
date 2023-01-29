@@ -31,8 +31,8 @@
 
 ## 📊 GitHub Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vpalve07&layout=compact&theme=great-gatsby)](https://github.com/vpalve07/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vpalve07&layout=compact&theme=yeblu)](https://github.com/vpalve07/github-readme-stats)
 
-![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vpalve07&show_icons=true&theme=great-gatsby)
+![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vpalve07&show_icons=true&theme=yeblu)
 
-![Vinayak's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=vpalve07&theme=great-gatsby)
+![Vinayak's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=vpalve07&theme=yeblu)
