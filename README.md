@@ -3,8 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vpalve07&label=Profile%20views&color=0e75b6&style=flat" alt="vpalve07" /> &nbsp;
 </a>
-    <a href="https://github.com/vpalve07/blogGroup17_Pro1/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/vpalve07/blogGroup17_Pro1" />
+    <a href="https://github.com/vpalve07/Books-Management-Pro4">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/vpalve07/Books-Management-Pro4" />
     </a>
     </p>
 
