@@ -41,7 +41,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vpalve07&layout=compact&theme=yeblu)](https://github.com/vpalve07/github-readme-stats)
 
-[<img align="right" width="390" alt="🦑" src="https://user-images.githubusercontent.com/22963968/190084456-0e077445-abae-4355-8061-5f0830a48d6e.png">](#)
+[<img align="right" width="350" alt="🦑" src="https://user-images.githubusercontent.com/22963968/190084456-0e077445-abae-4355-8061-5f0830a48d6e.png">](#)
 
 ![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vpalve07&show_icons=true&theme=yeblu)
 
