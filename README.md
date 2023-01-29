@@ -125,8 +125,12 @@
       <br>NodeJS
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-      <br>JQuery
+        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="48" height="48" alt="jquery" />
+      <br>Flask
+    </td>
+     <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="48" height="48" alt="jquery" />
+      <br>Pandas
     </td>
  </tr>
 </table>
