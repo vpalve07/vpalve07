@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vinayak Palve</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vpalve07&label=Profile%20views&color=0e75b6&style=flat" alt="vpalve07" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vpalve07&label=Profile%20views&color=0e75b6&style=flat" alt="vpalve07" /> &nbsp;
+</a>
+    <a href="https://github.com/vpalve07/blogGroup17_Pro1/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/vpalve07/blogGroup17_Pro1" />
+    </a>
+    </p>
 
 <h2 align="center"> 🏆 GitHub Trophies:</h2>
 
