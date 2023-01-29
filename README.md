@@ -29,7 +29,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/vinayak palve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinayak palve" height="30" width="40" /></a>
 <a href="https://instagram.com/vinnayak07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinnayak07" height="30" width="40" /></a>&nbsp;
-    <a href="vinayak.palve02@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="vinnayak07" height="25" width="40" /></a>
+    <link=mailto:"vinayak.palve02@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="vinnayak07" height="25" width="40" /></link>
 </p>
 
 ## Languages and Tools:
