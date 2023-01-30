@@ -144,3 +144,5 @@
 ![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vpalve07&show_icons=true&theme=yeblu)
 
 ![Vinayak's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=vpalve07&theme=yeblu)
+
+Be sure to drop a 🌟 if you like the profile or projects!
