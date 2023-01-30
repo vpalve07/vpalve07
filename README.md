@@ -145,4 +145,6 @@
 
 ![Vinayak's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=vpalve07&theme=yeblu)
 
+## Show your support 🌈
+
 Be sure to drop a 🌟 if you like the project!
