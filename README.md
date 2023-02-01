@@ -14,10 +14,6 @@
 <h2 align="left"> 🏆 GitHub Trophies:</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vpalve07&theme=juicyfresh)](https://github.com/vpalve07/github-profile-trophy)
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vpalve07&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4" alt="vpalve07" /></a> </p> -->
-
-<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
-
 
 <img align="right" alt="Coding" height="329" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
