@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vpalve07&label=Profile%20views&color=0e75b6&style=flat" alt="vpalve07" /> 
 </a>
-    <a href="https://github.com/vpalve07/blogGroup17_Pro1">
+    <a href="https://github.com/vpalve07/project-productManagement05.git">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/vpalve07/project-productManagement05" />
     </a> 
     <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/vpalve07?label=Followers&style=social">
@@ -17,7 +17,7 @@
 
 <img align="right" alt="Coding" height="329" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-- 🔭 I’m currently working on [Products Management](https://github.com/vpalve07/Books-Management-Pro4.git)
+- 🔭 I’m currently working on [Products Management](https://github.com/vpalve07/project-productManagement05.git)
 
 - 🌱 I’m currently learning **NodeJS, express**
 
