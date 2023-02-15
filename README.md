@@ -6,6 +6,7 @@
 <!--     <a href="https://github.com/vpalve07/project-productManagement05.git">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/vpalve07/project-productManagement05" />
     </a>  -->
+<!--     <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/vpalve07?label=Followers&style=social"> -->
     <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/vpalve07?label=Followers&style=social">
     <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/> 
     <img src="https://img.shields.io/github/stars/vpalve07?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
